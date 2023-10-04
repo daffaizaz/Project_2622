@@ -1,6 +1,6 @@
-package com.example;
+package com.example.project_2622.;
 
-public class LoginModel {
+ class LoginModel {
     //variable
     var username
 }
